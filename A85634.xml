@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by Generall Poyntz and Col: Copley, against the Kings forces under the command of the Lord Digby, and Sir Marmaduke Langdale, at Sherborn in Yorkshire, the 15. of October, 1645. Together with a perfect list of the commanders and souldiers, slain and taken prisoners. Ordered by the Commons assembled in Parliament, that this relation be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85634</idno>
+            <idno type="STC">Wing G1773</idno>
+            <idno type="STC">Thomason E305_14</idno>
+            <idno type="STC">ESTC R200325</idno>
+            <idno type="EEBO-CITATION">99861128</idno>
+            <idno type="PROQUEST">99861128</idno>
+            <idno type="VID">113256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113256)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E305[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by Generall Poyntz and Col: Copley, against the Kings forces under the command of the Lord Digby, and Sir Marmaduke Langdale, at Sherborn in Yorkshire, the 15. of October, 1645. Together with a perfect list of the commanders and souldiers, slain and taken prisoners. Ordered by the Commons assembled in Parliament, that this relation be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honourable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Octob. 21. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherburn (Yorkshire, England) --  History</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113256:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="3" facs="tcp:113256:1"/>
+            <!-- PDF PAGE 25 -->
+            <head>TO THE HONORABLE <hi>William Lenthall</hi> Eſquire, Speaker of the Honorable Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>OVr News is very joyfull, even the defeat of a raging Enemy of neer two thouſand men, under the command of the Lord <hi>Digby,</hi> having taken neer one thouſand Foot of mine neer Ferry-Briggs;
+<pb n="4" facs="tcp:113256:2"/>
+               <!-- PDF PAGE 26 -->my Horſe under the command of Co: <hi>Copley,</hi> fell ſuddenly upon them, and not onely releaſed the Foot, but God gave us an abſolute Victory, as the Liſt incloſed will manifeſt, there is not above two or three hundred of them left to<g ref="char:EOLhyphen"/>gether, who are fled towards Ski<g ref="char:EOLhyphen"/>pton; Eight hundred of mine pur<g ref="char:EOLhyphen"/>ſuing of them, ſo that I am retreat<g ref="char:EOLhyphen"/>ing to block up the North ſide of <hi>Newark,</hi> and have ſent two Re<g ref="char:EOLhyphen"/>giments to Colonell <hi>Rosſiter,</hi> to aſsiſt him in blocking up the South ſide, till I receive further Orders from the Committee of both Kingdoms: There is no conſide<g ref="char:EOLhyphen"/>rable Enemy for me to follow, the
+<pb n="5" facs="tcp:113256:2"/>
+               <!-- PDF PAGE 26 -->King being in <hi>Newark,</hi> and the Garriſon cleered of moſt of their Horſe; Its conceived a very ſea<g ref="char:EOLhyphen"/>ſonable time to block up the ſame, I want onely their comands. You ſhall hear further from me by the next that offers ſo much happi<g ref="char:EOLhyphen"/>neſſe to</p>
+            <closer>
+               <signed>Your Friend to ſerve you, <hi>Sydenham Poyntz.</hi>
+               </signed>
+               <dateline>Worſop, <date>Octob. 18. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="6" facs="tcp:113256:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>Priſoners taken at the Battell at <hi>Sherborn</hi> on <hi>Wedneſday</hi> Octob. 15. about four of the Clock in the Afternoone.</head>
+            <list>
+               <item>COlonell Sir <hi>Francis Anderſon.</hi>
+               </item>
+               <item>Col: <hi>Bulmer.</hi>
+               </item>
+               <item>Col: <hi>Chaytor.</hi>
+               </item>
+               <item>Col: <hi>Carnaby.</hi>
+               </item>
+               <item>Lieut. Colonell <hi>Matthew Wentworth.</hi>
+               </item>
+               <item>Lieut. Colonell <hi>Gordon.</hi>
+               </item>
+               <item>Major <hi>Craythorne.</hi>
+               </item>
+               <item>Capt. <hi>Leneon,</hi> Maſter of the Ordnance.</item>
+               <item>Captain <hi>Iames Cholmley.</hi>
+               </item>
+               <item>Captain <hi>Marſhall.</hi>
+               </item>
+               <item>Captain <hi>Pudſey</hi> wounded, and four Cap<g ref="char:EOLhyphen"/>tains more taken.</item>
+               <item>Captain Lieutenant <hi>Slater.</hi>
+               </item>
+               <item>
+                  <pb n="7" facs="tcp:113256:3"/>
+                  <!-- PDF PAGE 27 -->
+Lieutenant <hi>Iohn Turner,</hi> and divers other Reformadoes.</item>
+               <item>Mr. <hi>Duke Tunſtall,</hi> a great Papiſt.</item>
+               <item>Mr. <hi>Clavering.</hi>
+               </item>
+               <item>Mr. <hi>Lowther.</hi>
+               </item>
+               <item>Colonell Sir <hi>Francis Carnaby</hi> ſlain.</item>
+               <item>Colonell Sir <hi>Richard Hutton</hi> ſlain.</item>
+               <item>Mr. <hi>Slingsby</hi> ſore wounded.</item>
+               <item>Colonell <hi>Clavering</hi> and <hi>Carnabyes</hi> colours taken, with divers other colours.</item>
+               <item>Lord <hi>Digbyes</hi> Coach, and the Kings Sur<g ref="char:EOLhyphen"/>geon in it.</item>
+               <item>Much gallant Pillage.</item>
+               <item>We loſt not ten men, but many wounded.</item>
+               <item>The Enemy were about One thouſand ſix hundred, intended for <hi>Montroſſe,</hi> ours about One thouſand, twelve hundred and fifty.</item>
+               <item>About Six hundred of the Enemy gone towards <hi>Skipton.</hi>
+               </item>
+               <item>Three of Four hundred Troopers taken, and about Six hundred Horſes.</item>
+               <item>Fourty ſlain, and many wounded.</item>
+               <item>The Counteſſe of <hi>Nidſdale</hi> taken.</item>
+            </list>
+         </div>
+         <div type="speech">
+            <pb n="8" facs="tcp:113256:4"/>
+            <!-- PDF PAGE 28 -->
+            <head>The ſubſtance of Sir <hi>Mar. Landales</hi> Speech: <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his men before this fight.</head>
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>YOu are all gallant men, but there is ſome which ſeekes for to ſcandall your gal<g ref="char:EOLhyphen"/>lantry for the loſſe of <hi>Nasby</hi> buſineſſe, but I hope you will redeeme your Reputati<g ref="char:EOLhyphen"/>on, and ſtill maintain that gallant Report which you ever had, I am ſure you have done ſuch buſineſſe that never was done in any War with ſuch a number; your March from <hi>Oxford,</hi> firſt beating of <hi>Roſiter,</hi> and the reliefe of <hi>Pomfrett,</hi> the like was never done: And I hope you are Gentlemen, that you will ſtill maintaine it, and redeeme that which you have loſt: for my owne part I will not have you goe any where, but where I will lead you my ſelfe.</p>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:113256:4"/>
+            <!-- PDF PAGE 28 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE have had ſuch a buſineſſe here, as never was ſince theſe Warres began My Lord <hi>Digby,</hi> and Sir <hi>Marmaduke Langdale</hi> had thought to have ſur<g ref="char:EOLhyphen"/>priſed our Army againe, as they did at <hi>Pomfret,</hi> but the Lord of Hoſts was wonderfully ſeene as alwayes ſo now eſpecially; they came of a ſudden from <hi>VVel<g ref="char:EOLhyphen"/>beck</hi> Houſe, one thouſand and two hundred Horſe, and tooke eight hundred of our Foot at <hi>Sherlurn,</hi> twelve miles from <hi>York,</hi> but before they carryed them off the Field, our Horſe came on, and joyned battell with them, Routed their Horſe, Releaſed the priſoners, took above five hundred of them, whereof there was great Commanders, both ſlaine and taken. I have ſent you incloſed, a Liſt of thoſe were taken now, but our Horſe are ſtill in purſuit, the Lord give a bleſſing to them; You ſhall heare more by the next poſt, God willing. I pray you let me heare from you as often as you can, for it is my joy, and the onely comfort upon the earth to heare of your health and happineſſe; the Lord be praiſed for all his benefits towards us, but for the comfort of you, the Lord knowes my inward thoughts: I pray God bleſſe you. I reſt your ever loving friend till death.</p>
+            <closer>
+               <signed>James Hopkinſonn.</signed>
+            </closer>
+         </div>
+         <div type="account_of_battle">
+            <pb n="10" facs="tcp:113256:5"/>
+            <!-- PDF PAGE 29 -->
+            <head>Another Relation of the late fight neere <hi>Sherburne</hi> in <hi>Yorkeſhire.</hi>
+            </head>
+            <p>SInce this great Victory over the Enemy at <hi>Sher<g ref="char:EOLhyphen"/>burne,</hi> there came into this City of <hi>York,</hi> ſeverall perſons that revolted from the Enemy: whereof one of them (being an Officer in their Army) gives us this particular Relation, <hi>Viz.</hi> That on the laſt Sunday the King marched out of <hi>Newarke</hi> with about two thouſand Horſe, and came to <hi>VVelbecke;</hi> where having drawne out about twelve hundred Horſe, gave com<g ref="char:EOLhyphen"/>mand to the Lord <hi>Digby</hi> and Sir <hi>Marmaduke Langdale</hi> (the laſt of which we formerly related to be either ſlaine or drowned, and by this Gentlemans relation, he was wanting for foure dayes, and his owne party could not tell what was become of him) to march to<g ref="char:EOLhyphen"/>wards <hi>Montroſs,</hi> who as intelligence was brought to his Majeſty by <hi>Scotch Nan,</hi> (who carries Letters conti<g ref="char:EOLhyphen"/>nually betwixt them) hath gathered a conſiderable Body of Foot, and wanted nothing but Horſe to joyne with them, to act their cruelty in theſe parts. From <hi>VVelbecke</hi> Parke they marched to <hi>Doncaſter,</hi> where having taken the Centry, our men left the Towne and fled: from thence marching on forwards,
+<pb n="11" facs="tcp:113256:5"/>
+               <!-- PDF PAGE 29 -->they beat up our quarters in ſeverall Townes therea<g ref="char:EOLhyphen"/>bouts. Afterwards drawing neere <hi>Sherburne,</hi> they met with a Countrey-man, who told them that our men were preparing for their comming, being drawne into the field about eight hundred Foot beſides Horſe, but the Enemy ſoone routed the Horſe (being but 2 handfull to them) and tooke all the Foot priſoners, laid their Armes in a great heap in <hi>Sherburne</hi> ſtreet, till they could get carriages to ſend them away: but before they were provided with carriages, our Noble Collonel <hi>Copley</hi> (hearing of them) marched with all ſpeed, and faced them in <hi>Sherburne</hi> field; both parties ſtriving who ſhould be ſooneſt in Battalia: the Enemy being much incouraged with their former good ſuc<g ref="char:EOLhyphen"/>ceſſe, charged valiantly; ours anſwered them with brave gallantry: At the firſt, the left wings on both ſides were routed; but in the concluſion the Enemy was forced to flye, one of their chiefe Commanders (the Lord <hi>Digby</hi> by name) being wounded as wee heare, and Sir <hi>Marmaduke Langdale</hi> alſo had foure pi<g ref="char:EOLhyphen"/>ſtols fired againſt him, but whether he be wounded or no is uncertaine. Many priſoners were taken, it is re<g ref="char:EOLhyphen"/>ported 400 at leaſt, Sir <hi>Richard Hutton</hi> was ſlaine, whoſe corps his kindred (having protection from our Commiſſioners for Warre) have buried in that place he formerly deſired to be laid. This great buſineſſe was done on Wedneſday <hi>Octob</hi>-15. being a great mercy, the Enemy making themſelves ſure to bee in <hi>Yorke</hi> that night or the next, but now they are ſcattered (bleſſed be God) All our men and Armes which they had taken, are redeemed.</p>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:113256:6"/>
+            <!-- PDF PAGE 30 -->
+            <head>Col. <hi>Copleys</hi> Letter to the Hono<g ref="char:EOLhyphen"/>rable the Commiſſioners for War.</head>
+            <opener>
+               <salute>Honoured Gentlemen,</salute>
+            </opener>
+            <p>THe Enemy laſt night beat up our Guard at <hi>Cuſworth</hi> Manor to Ferri<g ref="char:EOLhyphen"/>bridge this day, tooke all our Foot at <hi>Sherburne,</hi> we purſued them ever ſince day, charged them, at the Towns end, routed them, but not without the rout of ſome of our men. And ſo the Lord hath given us the victory, many priſoners are taken, we are yet in the purſuit, we have redeemed all our Foot and their Arms, this is all for the preſent, from</p>
+            <closer>
+               <dateline>
+                  <date>15. Octob. 1645.</date>
+               </dateline>
+               <signed>Your moſt humble ſervant, <hi>Chr. Copley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:113256:6"/>
+            <!-- PDF PAGE 30 -->
+            <opener>
+               <salute>Honor. Gentlemen,</salute>
+            </opener>
+            <p>MY haſt laſt night made my Relation ſhort and imperfect, This I now preſent is for your fur<g ref="char:EOLhyphen"/>ther ſatisfaction: Upon the Intelligence of the Kings advance to <hi>Blyth</hi> with part of his Horſe, We appointed a Randevouz on <hi>Tueſday</hi> morning, pur<g ref="char:EOLhyphen"/>poſely to have ſtopt his advance by <hi>Dancaſter,</hi> but having heard he had a Randevouz that morning at <hi>Workſope,</hi> and thereby fearing his advance into <hi>Cheſ<g ref="char:EOLhyphen"/>ſhire,</hi> we kept our quarters and the gard at <hi>Duncaſter</hi> as uſually, onely that we might be in readineſſe, I appointed a Randevouz of all our Horſe at two of the clock on <hi>Tueſday</hi> night. The enemy advanced beyond our expectation from <hi>Workſope</hi> through <hi>Dan<g ref="char:EOLhyphen"/>caſter</hi> by day light, and beat up our guard at <hi>Cuſ<g ref="char:EOLhyphen"/>worth</hi> about ſix or ſeven of the clock. And in <hi>Scawſ<g ref="char:EOLhyphen"/>by keyes</hi> they quartred, and marcht ſtraight to <hi>Ferri<g ref="char:EOLhyphen"/>bridge</hi> next morning, and thence to <hi>Shurburne,</hi> &amp; took the Foot and their Arms, and beat Colonel <hi>Wrins</hi> Regiment at the North ſide <hi>Shurburne:</hi> I had ſent to <hi>Pontefract</hi> at foure a clock in the morning, to give no<g ref="char:EOLhyphen"/>tice to have ſaved the Foot, but the Meſſenger from Colonel <hi>Overton</hi> returned to <hi>Pontefract,</hi> not daring to go on, ſo the foot had no notice, and were taken; We marcht on from the Randevouz by day met and joyned with the Lord Gen. Regiment, who had ta<g ref="char:EOLhyphen"/>ken good ſtore of baggage of good value and divers priſoners, who had loſt their army in the night. We continued a ſpeedy march toward <hi>Ferribridge</hi> in hope
+<pb n="14" facs="tcp:113256:7"/>
+               <!-- PDF PAGE 31 -->to have got the Paſſe there, have ſtayed the Enemy, and have ſaved the Foot. When we were marcht up to <hi>Pontefract,</hi> the Caſtle gave us notice the Enemy was got before us, there we haſted to draw up our Men, drew forth a ſtrong Party to force the Enemy to a ſtand, but they were taking our Foot, by that, that Forlorne got to <hi>Betterice Hill,</hi> which wee underſtood at <hi>Milford,</hi> and that the Enemie was drawne up in Bo<g ref="char:EOLhyphen"/>dies on <hi>Sherburne</hi> Common: Here wee drew up our Horſe, and ordered them into Bodies for Charges and Reſerves, as before I had given order to the Officers, here we fell into a great ſtrait, wee durſt not march through <hi>Milford,</hi> fearing the Enemy with their Dra<g ref="char:EOLhyphen"/>goones (for we heard they had ſuch, but they had none, or their new got Muskets) might have put us in<g ref="char:EOLhyphen"/>to diſorder, but above the Town, through the Hedges, which was ſome inconvenience, but wee were forced when we came neere <hi>Sherburne,</hi> and the enemy draw<g ref="char:EOLhyphen"/>ing out againſt us, to draw over a narrow way through an impaſſable Brooke we knew not of, having much adoe to bring in our Bodyes againe into Order, which might have occaſioned the loſs of the day, had not the Enemy been ſomewhat too late in drawing out of the Towne; So I brought on againſt every of their Bo<g ref="char:EOLhyphen"/>dyes as neere as I could a Body of ours, and by the help of our Reſerves, we got the day, through the bleſſing of God, for divers of our Horſe were Routed, and the miſchiefe fell moſt upon my Regiment, who charged the onely Gallant men, the Reformadoes; many of our men are wounded, hardly ten ſlaine; The Victory cleare, we kept the field, purſued the Enemy three miles, tooke above foure hundred priſoners, whereof many are eſcaped, by negligence of the Souldiers, who
+<pb n="15" facs="tcp:113256:7"/>
+               <!-- PDF PAGE 31 -->regard the ſpoyle more then the glory, but for the num<g ref="char:EOLhyphen"/>ber and quality of the Officers, I deſire you to peruſe the Liſt incloſed, taken (for your further ſatisfaction) by Coll. <hi>Lilburn;</hi> The recovery of our Foot, and Arms, was not the leaſt part of our Victory, the loſſe was the right ſpur to the Engagement, the Lord put on, and wrought both, for the preſervation of this County. I have ſent above 100. of the Priſoners to <hi>Pontifract,</hi> how many I know not, to <hi>Cawood</hi> Caſtle; 150. at leaſt to <hi>Yorke;</hi> For the further proſecution of the Victory I I ſent (not having time to ſtay for your Order) Col<g ref="char:EOLhyphen"/>lonel <hi>Alureds</hi> and Collonel <hi>Wrens</hi> Regiments, both to prevent the enemies March to <hi>Montroſſe,</hi> which believe it was the maine Deſigne, the ſecuring of <hi>Bolton</hi> Lea<g ref="char:EOLhyphen"/>guer, to whoſe aſſiſtance, I have directed Coll. <hi>Lamberts</hi> Horſe if the reſt thinke fit, but for a further addition of ſtrength, I conceive were ſafe to ſend the Lord Ge<g ref="char:EOLhyphen"/>neralls Regiment after, hearing you have reſolved they ſhall not March to Generall <hi>Poynts,</hi> who is by this time at <hi>Nottingham,</hi> but I ſubmit this to your wiſ<g ref="char:EOLhyphen"/>dome, deſiring your ſpeedy reſolution, to morrow our other Regiments will be in their frontire Quar<g ref="char:EOLhyphen"/>ters againe; I ſhall be with them to attend the ene<g ref="char:EOLhyphen"/>mies motions againe. Your deſire of a full relation hath made<g ref="char:cmbAbbrStroke">̄</g> me tedious, I crave your pardon, ſhall pre<g ref="char:EOLhyphen"/>ſent your Order for the expreſſion of your good ac<g ref="char:EOLhyphen"/>ceptance of our Service, and your future care of us, for the preſent, I reſt,</p>
+            <closer>
+               <dateline>Sherburne
+<date>Oct. 16. 1645.</date>
+               </dateline>
+               <signed>Your moſt humble ſervant, <hi>CHR. CORLEY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
